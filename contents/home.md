@@ -1,6 +1,6 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+
 
 He is currently pursuing a Master's Degree in Software Engineering, at School of Software, Dalian University of Technology, China.
 

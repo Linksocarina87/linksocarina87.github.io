@@ -1,1 +1,1 @@
-- <strong>Y. Cai<strong>, Z. Chen*, J. Gao, P. LI and J. Zhang (2024). Hard Sample Aware Robust Contrastive Learning for Multi-View Clustering. <strong>ICASSP. Accepted.<strong>
+- <strong>Y. Cai</strong>, Z. Chen*, J. Gao, P. LI and J. Zhang (2024). Hard Sample Aware Robust Contrastive Learning for Multi-View Clustering. <strong>ICASSP. Accepted.</strong>
